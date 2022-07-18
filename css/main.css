@@ -231,7 +231,7 @@ header .container {
 }
 .right{
   position: relative;
-  left:-2em;
+  left:-1em;
 }
 .right .cta .btn{
   position:relative;
@@ -261,7 +261,7 @@ header .container {
   color: #f1f8fc;
 }
 
-.footer-section{
+.contact-section{
   position: relative;
 
 }
